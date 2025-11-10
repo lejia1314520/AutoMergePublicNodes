@@ -7,8 +7,7 @@
 
 
 ## 公告
-* 本项目fork [NoMoreWalls](https://github.com/peasoft/NoMoreWalls) 请优先为该项目 点亮☆
-* 为防止失联，[peasoft](https://github.com/peasoft)建立了镜像：<https://peasoft.github.io/NWalls.html>
+* 本项目fork [chengaopan](https://github.com/chengaopan/AutoMergePublicNodes?tab=readme-ov-file) 请优先为该项目 点亮☆
 
 **本项目提供的 Clash 订阅包含我们精心设计的分流规则，Google Play 软件秒下，自动识别被墙域名，只需将 `🐟 漏网之鱼` 维持在 `DIRECT` 即可！**
 
@@ -37,7 +36,7 @@
 ## 使用方法
 
 注意：加速链接可能会失效，如果无法更新订阅，请把所有链接从上到下每个试一遍！你可以在电脑浏览器上安装油猴脚本 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)，在目录浏览点开 `list.txt`，然后在 `Raw` 按钮边上找到最新的加速链接。
-添加 Base64 订阅：
+- 添加 Base64 订阅：
 - [原始链接]
 ```
 https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt
@@ -65,7 +64,7 @@ https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.tx
 ```
 https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
-或添加 Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
+-  Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
 - [原始链接]
 ```
 https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml
