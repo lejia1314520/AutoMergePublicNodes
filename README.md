@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/m
 ```
 - [GhProxy.cn] 加速
 ```
-https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt)
+https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt
 ```
 - 此处不公开部分私有镜像站
 
