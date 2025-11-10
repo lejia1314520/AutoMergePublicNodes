@@ -65,7 +65,7 @@ https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.tx
 ```
 https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
--  Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
+-  [Clash Meta 订阅]：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
 - [原始链接]
 ```
 https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml
