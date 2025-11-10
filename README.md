@@ -38,18 +38,16 @@
 
 注意：加速链接可能会失效，如果无法更新订阅，请把所有链接从上到下每个试一遍！你可以在电脑浏览器上安装油猴脚本 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)，在目录浏览点开 `list.txt`，然后在 `Raw` 按钮边上找到最新的加速链接。
 添加 Base64 订阅：
-- 原始链接
-
+- [原始链接]
 ```
 https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt
 ```
-
-- GhProxy.cn 加速
-
+- [GhProxy.cn] 加速
 ```
 https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt)
 ```
 - 此处不公开部分私有镜像站
+
 以下链接可能不是最新，但绝对不会被封：
 - [JsDelivr 默认 (当前 Fastly)]
 ```
@@ -87,6 +85,7 @@ https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
 ```
 https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
 ```
+- [JsDelivr Cloudflare CDN]
 ```
 https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
 ```
