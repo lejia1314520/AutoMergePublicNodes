@@ -94,13 +94,3 @@
 10. 你已获得完整订阅
 
 如果本地仓库长期未更新，请删除仓库并重新克隆来同步最新更改，不要使用 `git pull`。
-
-## Star History
-
-<a href="https://star-history.com/#chengaopan/AutoMergePublicNodes">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes" />
-  </picture>
-</a>
