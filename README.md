@@ -38,49 +38,58 @@
 
 注意：加速链接可能会失效，如果无法更新订阅，请把所有链接从上到下每个试一遍！你可以在电脑浏览器上安装油猴脚本 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)，在目录浏览点开 `list.txt`，然后在 `Raw` 按钮边上找到最新的加速链接。
 添加 Base64 订阅：
+- 原始链接
 ```
-- [原始链接](https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt)
-``
-
+https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt
 ```
-- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt)
+- GhProxy.cn 加速
 ```
-
+https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt)
+```
 - 此处不公开部分私有镜像站
 以下链接可能不是最新，但绝对不会被封：
+- [JsDelivr 默认 (当前 Fastly)]
 ```
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
+https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
+- [JsDelivr Fastly CDN]
 ```
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
+https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
+- [JsDelivr Cloudflare CDN]
 ```
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
+https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
+- [JsDelivr GCore CDN]
 ```
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
+https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
 或添加 Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
+- [原始链接]
 ```
-- [原始链接](https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml)
+https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml
 ```
+- [GhProxy.cn] 加速
 ```
-- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml)
+https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml
 ```
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
+- [JsDelivr 默认 (当前 Fastly)]
 ```
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
+https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
+```
+- [JsDelivr Fastly CDN]
+```
+https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
 ```
 ```
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
+https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
 ```
+- [JsDelivr GCore CDN]
 ```
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-```
-```
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
+https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml
 ```
 
 或添加 Sing-Box 订阅：（第三方提供转换，不支持本项目的节点选择和分流规则）
