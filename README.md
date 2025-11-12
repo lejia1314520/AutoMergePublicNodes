@@ -1,6 +1,6 @@
 # NoMoreWalls
 
-[![Fetch Status](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml/badge.svg)](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml) [![Stars](https://img.shields.io/github/stars/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/stargazers) [![Watchers](https://img.shields.io/github/watchers/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/watchers) [![Forks](https://img.shields.io/github/forks/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/forks) [![Repo size](https://img.shields.io/github/repo-size/chengaopan/AutoMergePublicNodes)](https://github.com/chengaopan/AutoMergePublicNodes/commits) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=peasoft.NoMoreWalls) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/LICENSE.md) [![暮光计划](https://img.shields.io/badge/link-暮光计划--向戒网瘾学校宣战-red.svg)](https://proj3ctaurora.tilda.ws/)
+[![Fetch Status](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml/badge.svg)](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml) [![Stars](https://img.shields.io/github/stars/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/stargazers) [![Watchers](https://img.shields.io/github/watchers/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/watchers) [![Forks](https://img.shields.io/github/forks/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/forks) [![Repo size](https://img.shields.io/github/repo-size/chengaopan/AutoMergePublicNodes)](https://github.com/chengaopan/AutoMergePublicNodes/commits) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=peasoft.NoMoreWalls) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/LICENSE.md) [![暮光计划](https://img.shields.io/badge/link-red.svg)](https://proj3ctaurora.tilda.ws/)
 
 自动抓取合并互联网上的公开节点。
 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
@@ -25,19 +25,23 @@
 
 此项目现已添加“反 996 许可证”，请各位使用者**不要违法违规要求别人加班，自觉遵守《中华人民共和国劳动法》及其它法律法规**！
 
-### 为什么 *不要* 使用付费节点？
+### 4GTV ofiii 链接
 
-1. 付费节点存在付完费厂商立即跑路的**诈骗风险**，且一旦被骗钱款**无法追回**！
-2. 付费节点需要注册账号并付费，厂商可以借此收集你的**个人信息**然后倒卖！付费节点管理程序可能**存在漏洞**，■■黑客也可能把你的个人信息提交给■■。
-3. 付费节点数量少，一旦封禁死亡率就是 100%。与其花**几倍的钱**购买多个机场备用，不如使用本项目收集的**全网各处**公开的节点，总数是付费订阅的 10 倍，**总有不少节点存活**！
-4. 现在免费节点的质量并不差，Hysteria 节点**秒开 4K 不是梦**！![秒开 4K](https://github.com/user-attachments/assets/ea73db01-e7bf-4e31-a06f-13c91e9ee87c)
+- [4GTV]
+```
+https://ghproxy.cn/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+```
+- [ofiii]
+```
+https://ghproxy.cn/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/ofiii.m3u
+```
 
 
 ## 使用方法
 
 注意：加速链接可能会失效，如果无法更新订阅，请把所有链接从上到下每个试一遍！你可以在电脑浏览器上安装油猴脚本 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)，在目录浏览点开 `list.txt`，然后在 `Raw` 按钮边上找到最新的加速链接。
-
-- 添加 [Base64 订阅]：
+-现在免费节点的质量并不差，Hysteria 节点**秒开 4K 不是梦**！![秒开 4K](https://github.com/user-attachments/assets/ea73db01-e7bf-4e31-a06f-13c91e9ee87c)
+-  添加 [Base64 订阅]：
 
 - [原始链接]
 ```
