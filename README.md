@@ -29,11 +29,11 @@
 
 - [4GTV]
 ```
-https://ghproxy.cn/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+https://ghproxy.cn/https://judy-gotv/iptv@master/4gtv.m3u
 ```
 - [ofiii]
 ```
-https://ghproxy.cn/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/ofiii.m3u
+https://ghproxy.cn/https://judy-gotv/iptv@master/ofiii.m3u
 ```
 
 
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/m
 ```
 - [GhProxy.cn] 加速
 ```
-https://ghproxy.cn/https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml
+https://ghproxy.cn/lejia1314520/AutoMergePublicNodes@master/list.meta.yml
 ```
 - 此处不公开部分私有镜像站
 
