@@ -29,11 +29,11 @@
 
 - [4GTV]
 ```
-https://ghproxy.cn/gh/judy-gotv/iptv@master/4gtv.m3u
+https://cdn.jsdelivr.net/gh/judy-gotv/iptv@master/4gtv.m3u
 ```
 - [ofiii]
 ```
-https://ghproxy.cn/gh/judy-gotv/iptv@master/ofiii.m3u
+https://cdn.jsdelivr.net/gh/judy-gotv/iptv@master/ofiii.m3u
 ```
 
 
@@ -47,7 +47,7 @@ https://ghproxy.cn/gh/judy-gotv/iptv@master/ofiii.m3u
 ```
 https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.txt
 ```
-- [GhProxy.cn] 加速
+- [cdn.jsdelivr.net] 加速
 ```
 https://cdn.jsdelivr.net/gh/lejia1314520/AutoMergePublicNodes@master/list.txt
 ```
@@ -76,9 +76,9 @@ https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt
 ```
 https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/master/list.meta.yml
 ```
-- [GhProxy.cn] 加速
+- [cdn.jsdelivr.net] 加速
 ```
-https://ghproxy.cn/gh/lejia1314520/AutoMergePublicNodes@master/list.meta.yml
+https://cdn.jsdelivr.net/gh/lejia1314520/AutoMergePublicNodes@master/list.meta.yml
 ```
 - 此处不公开部分私有镜像站
 
