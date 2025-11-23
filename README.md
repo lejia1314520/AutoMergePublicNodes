@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/lejia1314520/AutoMergePublicNodes/refs/heads/m
 ```
 - [GhProxy.cn] 加速
 ```
-https://cdn.jsdelivr.net/gh/lejia1314520/AutoMergePublicNodes/blob/master/list.txt
+https://cdn.jsdelivr.net/gh/lejia1314520/AutoMergePublicNodes@master/list.txt
 ```
 - 此处不公开部分私有镜像站
 
