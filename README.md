@@ -29,13 +29,16 @@
 
 - [4GTV]
 ```
-https://cdn.jsdelivr.net/gh/judy-gotv/iptv@master/4gtv.m3u
+https://github.com/judy-gotv/iptv/blob/main/4gtv.m3u
 ```
 - [ofiii]
 ```
-https://cdn.jsdelivr.net/gh/judy-gotv/iptv@master/ofiii.m3u
+https://github.com/judy-gotv/iptv/blob/main/ofiii.m3u
 ```
-
+- [beesports]
+```
+https://github.com/judy-gotv/iptv/blob/main/beesports.m3u
+```
 
 ## 使用方法
 
