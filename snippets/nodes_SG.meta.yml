@@ -2,9 +2,9 @@ proxies:
 - name: 8|SG_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 18.143.178.20
+  server: 56.10.11.159
   skip-cert-verify: true
-  sni: https://t.me/WangCai2
+  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: 8|SG
@@ -15,21 +15,24 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 11|🇸🇬 新加坡|@ripaojiedian
+- name: 11,12|新加坡|@ripaojiedian
+  network: tcp
   password: 4e4910ec52552e36aa43a870a179da83
   port: 6357
   server: 43.199.32.140
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11|🇸🇬 新加坡2|@ripaojiedian
+- name: 11,12|新加坡2|@ripaojiedian
+  network: tcp
   password: 4e4910ec52552e36aa43a870a179da83
   port: 48738
   server: 43.199.32.140
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11|🇸🇬 新加坡3|@ripaojiedian
+- name: 11,12|新加坡3|@ripaojiedian
+  network: tcp
   password: BxceQaOe
   port: 22459
   server: 95.40.63.61
